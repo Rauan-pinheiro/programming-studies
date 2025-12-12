@@ -1,0 +1,26 @@
+# --- Ignorar em TODAS as subpastas ---
+
+# 1. Arquivos de Senhas e Segredos (CRÍTICO)
+.env
+*.env
+
+# 2. Ambientes Virtuais e Dependências
+venv/
+.venv/
+env/
+node_modules/
+
+# 3. Arquivos de Sistema e IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# 4. Compilados Python
+__pycache__/
+*.pyc
+
+# 5. Bancos de Dados Locais e Mídias Geradas
+db.sqlite3
+qrcode_img/
+*.log
