@@ -1,4 +1,4 @@
-# 🧪 Laboratório de Estudos (DevFlow)
+# 🧪 Laboratório de Estudos
 
 Este repositório centraliza minha jornada de aprendizado em programação, contendo desde scripts básicos de lógica até sistemas CRUD complexos e integrações com Banco de Dados.
 
