@@ -34,5 +34,10 @@ Este repositório centraliza minha jornada de aprendizado em programação, cont
 | **`python-qrcode-generator`** | Automação para gerar QR Codes de URLs e Wifi. |
 | **`html-css-anabella`** | Site institucional estático (Frontend). |
 
+## 🤝 Estudando em parceria com o Claude
+
+Nos meus estudos conto com o **Claude**, a IA da Anthropic, como parceiro: uso para tirar dúvidas, revisar exercícios e entender conceitos com mais profundidade. O código e a prática são meus; o Claude é o colega que me ajuda a aprender mais rápido.
+
+
 ---
 *Desenvolvido por Rauan Pinheiro - Foco em Fullstack Development*
